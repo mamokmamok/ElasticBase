@@ -2,32 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef0ca364-2ce0-4724-9036-b12515641dc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ElasticBase.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/angular-cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/angular-cookies.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/angular-cookies.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-cookies/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index-async.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/version/interpolate-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/version/interpolate-filter_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e-tests/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e-tests/scenarios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/version/version-directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/version/version-directive_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/version/version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/components/version/version_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view1/view1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view1/view1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view1/view1_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view2/view2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view2/view2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view2/view2_test.js" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\angular-cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\angular-cookies.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\angular-cookies.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular-cookies\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\angular-csp.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\angular.min.js.gzip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Gil\Documents\GitHub\ElasticBase\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ElasticBase.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +71,23 @@
   <component name="FavoritesManager">
     <favorites_list name="ElasticBase" />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>C:\Users\Gil\AppData\Roaming\npm\bower.cmd</exe-path>
+    <config-path />
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -111,8 +148,48 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="options.lastSelected" value="Settings.JavaScript.Bower" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\GitHub\ElasticBase\bower_components\angular" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
